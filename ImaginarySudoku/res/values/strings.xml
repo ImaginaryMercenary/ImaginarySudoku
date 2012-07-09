@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MainScreen!</string>
+    <string name="app_name">Imaginary Sudoku</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="new_game">New Game</string>
+    <string name="resume_game">Resume Game</string>
+    <string name="choose_difficulty">Choose your difficulty:</string>
+
+</resources>
